@@ -2,8 +2,10 @@
 ## School Bully
 ## Dataset Information
 ค้นหา Data จาก Kaggle https://www.kaggle.com/datasets/leomartinelli/bullying-in-schools
-File name: school_bully1.csv
-This file has the following attributes
+* The Global School-Based Student Health Survey (GSHS) 
+* The survey was conducted in Argentina in 2018.A total of 56,981 students participated
+* File name: school_bully1.csv
+* This file has the following attributes
 * จำนวนเด็กทั้งหมด (56,981 row)
 * 17 column
   - Bullied on school property in past 12 months,
